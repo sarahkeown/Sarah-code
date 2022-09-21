@@ -377,6 +377,7 @@ def main():
     turtle_dog()
     turtle_doghouse()
     turtle_sun()
+    # new line
 
     wn.exitonclick()
 
