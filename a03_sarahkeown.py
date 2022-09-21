@@ -6,8 +6,12 @@
 # Author: Sarah Keown
 # Username: sarahkeown
 #
-# Assignment:
-# Purpose:
+# Assignment: A03: Functional Turtles
+# Purpose: Continue practicing creating and using functions.
+# More practice on using the turtle library.
+# Learn about how computers represent colors.
+# Learn about source control and git.
+
 # Google Doc Link: https://docs.google.com/document/d/1F9wfattarM5KmVeo90zHmc2OPbv30SzBD70jnOEW99c/edit?usp=sharing
 #
 #################################################################################
