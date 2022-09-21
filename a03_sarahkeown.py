@@ -32,7 +32,6 @@ def turtle_grass():
     import turtle
     wn = turtle.Screen()
     wn.bgcolor("#44C8FA")   #changes background color using Hexadecimal
-
     t = turtle.Turtle()
     t.speed(0)
     t.penup()
@@ -43,7 +42,7 @@ def turtle_grass():
     t.pendown()
     t.pensize(200)
     t.pencolor("green")
-    for i in [0, 1,]:
+    for i in [0, 1]:
         t.forward(700)
         t.left(90)
         t.forward(150)
@@ -209,7 +208,6 @@ def turtle_dog():
     dog.penup()
     dog.goto(0, -500)
 
-
 def turtle_doghouse():
     """Turtle will draw a dog house for the dog to chill in when he's outside
     and put his name on the house"""
@@ -371,7 +369,7 @@ def turtle_sun():
         cloud.pensize(35)
         cloud.forward(30)
 def main():
-
+    """calls all of the functions"""
     turtle_grass()
     turtle_house()
     turtle_dog()
